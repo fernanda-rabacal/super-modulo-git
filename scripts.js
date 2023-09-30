@@ -6,7 +6,7 @@ const IMG_URL = 'https://image.tmdb.org/t/p/w500';
 const language = 'language=pt-BR';
 //https://developer.themoviedb.org/reference/intro/getting-started
 
-let movies = []
+let movies = {}
 
 /* rota de filmes
 https://developer.themoviedb.org/reference/movie-videos
